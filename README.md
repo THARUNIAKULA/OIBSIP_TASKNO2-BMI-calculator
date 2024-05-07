@@ -1,5 +1,7 @@
 OBSIP_TASKNO2
+
 Project Idea : BMI CALCULATOR
+
 Project Description:
 ○ Develop a graphical BMI calculator with a user-friendly interface (GUI) using libraries like Tkinter or PyQt.
 ○ Prompts users for their weight (in kilograms) and height (in meters). Allows users to input weight and height.
